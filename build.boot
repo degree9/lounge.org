@@ -7,6 +7,7 @@
 
 (require
  '[adzerk.bootlaces :refer :all]
+ '[boot-semver.core :refer :all]
  '[lounge.boot :refer :all])
 
 (task-options!
